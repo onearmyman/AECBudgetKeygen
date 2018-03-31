@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4c3690c-980d-4330-897a-eeba94813032" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AECBudgetKeygen/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.AECBudgetKeygen/.idea/workspace.xml" />
+    </list>
+    <manually-removed-from-ignored>
+      <directory path=".idea/" />
+    </manually-removed-from-ignored>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FavoritesManager">
+    <favorites_list name="AECBudgetKeygen" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="ConsoleApp.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AECBudgetKeygen/ConsoleApp.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="728">
+              <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+              <folding>
+                <marker date="1522478382636" expanded="true" signature="79:781" ph="{...}" />
+                <marker date="1522478382636" expanded="true" signature="133:775" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="indexLayout.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/.idea.Keygen/.idea/indexLayout.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AssemblyInfo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AECBudgetKeygen/Properties/AssemblyInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1522471933714" expanded="false" signature="6:62" ph="..." />
+                <marker date="1522471933714" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+                <marker date="1522471933714" expanded="true" signature="568:778" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+                <marker date="1522471933714" expanded="true" signature="953:1280" ph="/* Version information for an assembly consists of the following four values: ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/.idea.AECBudgetKeygen/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Keygen.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AECBudgetKeygen/Keygen.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3016">
+              <caret line="117" column="13" lean-forward="false" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
+              <folding>
+                <marker date="1522477240588" expanded="false" signature="6:32" ph="..." />
+                <marker date="1522477240588" expanded="true" signature="85:4432" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="307:1097" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="1129:1183" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="1240:1574" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="1298:1541" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="1661:2207" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="1792:2152" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="1884:1964" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="1985:2060" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="2271:2525" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="2397:2470" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="2596:3525" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="2706:2817" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="2862:2969" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="3014:3121" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="3166:3267" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="3312:3413" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="3430:3488" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="3599:4426" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="3649:3763" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="3812:4015" ph="{...}" />
+                <marker date="1522477240588" expanded="true" signature="4282:4371" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SystemInfo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AECBudgetKeygen/SystemInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1040">
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding>
+                <marker date="1522477338783" expanded="false" signature="6:66" ph="..." />
+                <marker date="1522477338783" expanded="true" signature="123:4291" ph="{...}" />
+                <marker date="1522477338783" expanded="true" signature="820:1996" ph="{...}" />
+                <marker date="1522477338783" expanded="true" signature="2052:2310" ph="{...}" />
+                <marker date="1522477338783" expanded="true" signature="2115:2276" ph="{...}" />
+                <marker date="1522477338783" expanded="true" signature="2353:2934" ph="{...}" />
+                <marker date="1522477338783" expanded="true" signature="2583:2900" ph="{...}" />
+                <marker date="1522477338783" expanded="true" signature="2697:2828" ph="{...}" />
+                <marker date="1522477338783" expanded="true" signature="2867:2886" ph="{...}" />
+                <marker date="1522477338783" expanded="true" signature="2980:3586" ph="{...}" />
+                <marker date="1522477338783" expanded="true" signature="3210:3552" ph="{...}" />
+                <marker date="1522477338783" expanded="true" signature="3324:3459" ph="{...}" />
+                <marker date="1522477338783" expanded="true" signature="3498:3538" ph="{...}" />
+                <marker date="1522477338783" expanded="true" signature="3664:4285" ph="{...}" />
+                <marker date="1522477338783" expanded="true" signature="3897:4251" ph="{...}" />
+                <marker date="1522477338783" expanded="true" signature="4011:4115" ph="{...}" />
+                <marker date="1522477338783" expanded="true" signature="4152:4237" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/AECBudgetKeygen/SystemInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AECBudgetKeygen/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AECBudgetKeygen/Keygen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AECBudgetKeygen/ConsoleApp.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AECBudgetKeygen/Program.cs" />
+        <option value="$PROJECT_DIR$/AECBudgetKeygen/SystemInfo.cs" />
+        <option value="$PROJECT_DIR$/AECBudgetKeygen/Keygen.cs" />
+        <option value="$PROJECT_DIR$/AECBudgetKeygen/ConsoleApp.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="59" />
+    <option name="width" value="1772" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="AECBudgetKeygen (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/AECBudgetKeygen/bin/Debug/AECBudgetKeygen.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AECBudgetKeygen/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AECBudgetKeygen/AECBudgetKeygen.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4c3690c-980d-4330-897a-eeba94813032" name="Default" comment="" />
+      <created>1522472107479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522472107479</updated>
+      <workItem from="1522472108807" duration="6187000" />
+      <workItem from="1522482475542" duration="1386000" />
+      <workItem from="1522483888310" duration="843000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add working code">
+      <created>1522484098226</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522484098226</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8416000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="59" y="0" width="1772" height="1038" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cargo" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.633218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26179245" sideWeight="0.4939759" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2576651" sideWeight="0.5060241" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add working code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add working code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/.idea.Keygen/.idea/indexLayout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AECBudgetKeygen/ConsoleApp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <marker date="1522478382636" expanded="true" signature="79:781" ph="{...}" />
+            <marker date="1522478382636" expanded="true" signature="133:775" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AECBudgetKeygen/Keygen.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3016">
+          <caret line="117" column="13" lean-forward="false" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
+          <folding>
+            <marker date="1522477240588" expanded="false" signature="6:32" ph="..." />
+            <marker date="1522477240588" expanded="true" signature="85:4432" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="307:1097" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1129:1183" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1240:1574" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1298:1541" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1661:2207" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1792:2152" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1884:1964" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1985:2060" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="2271:2525" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="2397:2470" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="2596:3525" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="2706:2817" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="2862:2969" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3014:3121" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3166:3267" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3312:3413" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3430:3488" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3599:4426" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3649:3763" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3812:4015" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="4282:4371" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AECBudgetKeygen/SystemInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <marker date="1522477338783" expanded="false" signature="6:66" ph="..." />
+            <marker date="1522477338783" expanded="true" signature="123:4291" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="820:1996" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2052:2310" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2115:2276" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2353:2934" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2583:2900" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2697:2828" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2867:2886" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2980:3586" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="3210:3552" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="3324:3459" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="3498:3538" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="3664:4285" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="3897:4251" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="4011:4115" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="4152:4237" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AECBudgetKeygen/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522471933714" expanded="false" signature="6:62" ph="..." />
+            <marker date="1522471933714" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1522471933714" expanded="true" signature="568:778" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1522471933714" expanded="true" signature="953:1280" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AECBudgetKeygen/ConsoleApp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522478382636" expanded="true" signature="79:781" ph="{...}" />
+            <marker date="1522478382636" expanded="true" signature="133:775" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AECBudgetKeygen/Keygen.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3016">
+          <caret line="117" column="13" lean-forward="false" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
+          <folding>
+            <marker date="1522477240588" expanded="false" signature="6:32" ph="..." />
+            <marker date="1522477240588" expanded="true" signature="85:4432" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="307:1097" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1129:1183" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1240:1574" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1298:1541" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1661:2207" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1792:2152" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1884:1964" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1985:2060" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="2271:2525" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="2397:2470" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="2596:3525" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="2706:2817" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="2862:2969" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3014:3121" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3166:3267" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3312:3413" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3430:3488" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3599:4426" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3649:3763" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3812:4015" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="4282:4371" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AECBudgetKeygen/SystemInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <marker date="1522477338783" expanded="false" signature="6:66" ph="..." />
+            <marker date="1522477338783" expanded="true" signature="123:4291" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="820:1996" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2052:2310" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2115:2276" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2353:2934" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2583:2900" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2697:2828" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2867:2886" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2980:3586" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="3210:3552" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="3324:3459" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="3498:3538" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="3664:4285" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="3897:4251" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="4011:4115" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="4152:4237" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AECBudgetKeygen/SystemInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <marker date="1522477338783" expanded="false" signature="6:66" ph="..." />
+            <marker date="1522477338783" expanded="true" signature="123:4291" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="820:1996" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2052:2310" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2115:2276" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2353:2934" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2583:2900" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2697:2828" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2867:2886" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="2980:3586" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="3210:3552" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="3324:3459" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="3498:3538" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="3664:4285" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="3897:4251" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="4011:4115" ph="{...}" />
+            <marker date="1522477338783" expanded="true" signature="4152:4237" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AECBudgetKeygen/Keygen.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3016">
+          <caret line="117" column="13" lean-forward="false" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
+          <folding>
+            <marker date="1522477240588" expanded="false" signature="6:32" ph="..." />
+            <marker date="1522477240588" expanded="true" signature="85:4432" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="307:1097" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1129:1183" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1240:1574" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1298:1541" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1661:2207" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1792:2152" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1884:1964" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="1985:2060" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="2271:2525" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="2397:2470" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="2596:3525" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="2706:2817" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="2862:2969" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3014:3121" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3166:3267" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3312:3413" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3430:3488" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3599:4426" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3649:3763" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="3812:4015" ph="{...}" />
+            <marker date="1522477240588" expanded="true" signature="4282:4371" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AECBudgetKeygen/ConsoleApp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <marker date="1522478382636" expanded="true" signature="79:781" ph="{...}" />
+            <marker date="1522478382636" expanded="true" signature="133:775" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.idea.Keygen/.idea/indexLayout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AECBudgetKeygen/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522471933714" expanded="false" signature="6:62" ph="..." />
+            <marker date="1522471933714" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1522471933714" expanded="true" signature="568:778" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1522471933714" expanded="true" signature="953:1280" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.idea.AECBudgetKeygen/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
